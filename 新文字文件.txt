@@ -1,0 +1,8 @@
+mysql-ctl start 開始
+
+mtsql -uroot -p  密碼(沒有不用打)
+
+
+phpmyadmin-ctl install   管理mysql的php程式
+
+http://....../phpmyadmin
